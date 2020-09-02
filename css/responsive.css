@@ -1,0 +1,633 @@
+/* Large devices */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* Banner Css Start Here */
+    #banner {
+        padding-top: 135px;
+        padding-bottom: 88px;
+    }
+
+    .banner-item h3 {
+        font-size: 31px;
+    }
+
+    .banner-item-image {
+        top: 53%;
+    }
+
+    .banner-item-link a {
+        padding: 15px 40px 15px 40px;
+    }
+    /* Banner Css End Here */
+
+    /* Just Css Start Here */
+    #just-food {
+        padding-top: 17px;
+        padding-bottom: 35px;
+    }
+
+    .just-food-text h3 {
+        font-size: 27px;
+        padding-right: 27px;
+    }
+
+    .just-food-underline {
+        margin-right: 25px;
+    }
+
+    .just-food-text p {
+        font-size: 15px;
+        padding-bottom: 18px;
+        padding-right: 30px;
+    }
+    /* Just Css End Here */
+
+    /* Fine Css Start Here */
+    #fine {
+        padding-top: 74px;
+        padding-bottom: 81px;
+    }
+    /* Fine Css End Here */
+
+    /* Service Css Start Here */
+    #service {
+        padding-top: 52px;
+        padding-bottom: 34px;
+    }
+    /* Service Css End Here */
+
+    /* Guest Css Start Here */
+    #guest {
+        padding-top: 70px;
+        padding-bottom: 74px;
+    }
+    /* Guest Css End Here */
+
+    /* Footer upper Css Start Here */
+    #footer-upper {
+        padding-top: 49px;
+        padding-bottom: 60px;
+    }
+
+    .just-food-second h3 {
+        font-size: 30px;
+    }
+    /* Footer upper Css End Here */
+
+
+}
+
+/* Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* Header Css Start Here */
+    .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #ffffff;
+        padding: 5px 10px;
+        border: 1px solid #fff;
+        border-radius: 5px;
+    }
+
+    .navbar-nav {
+        background: rgb(204, 174, 40);
+        text-align: center;
+        padding: 10px 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 20px;
+    }
+    /* Header Css End Here */
+
+    /* Banner Css Start Here */
+    #banner {
+        padding-top: 135px;
+        padding-bottom: 88px;
+    }
+
+    .banner-item h3 {
+        font-size: 31px;
+    }
+
+    .banner-item-image {
+        top: 53%;
+    }
+
+    .banner-item-link a {
+        padding: 15px 40px 15px 40px;
+    }
+    /* Banner Css End Here */
+
+    /* Just Css Start Here */
+    #just-food {
+        padding-top: 17px;
+        padding-bottom: 35px;
+    }
+
+    .just-food-text h3 {
+        font-size: 31px;
+        padding-right: 27px;
+    }
+
+    .just-food-underline {
+        margin-right: 25px;
+    }
+
+    .just-food-text p {
+        font-size: 16px;
+        padding-bottom: 18px;
+        padding-right: 33px;
+    }
+    /* Just Css End Here */
+
+    /* Fine Css Start Here */
+    #fine {
+        padding-top: 74px;
+        padding-bottom: 81px;
+    }
+
+    .fine-text h3 {
+        padding-top: 43px;
+        padding-bottom: 7px;
+    }
+
+    .fine-text p {
+        padding: 30px 25px 38px 25px;
+    }
+
+    .fine-inner-image {
+        padding-bottom: 56px;
+    }
+    /* Fine Css End Here */
+
+    /* Service Css Start Here */
+    #service {
+        padding-top: 52px;
+        padding-bottom: 34px;
+    }
+
+    .service-item {
+        margin-right: 35px;
+    }
+
+    .service-text {
+        margin-right: 10px;
+    }
+
+    .service-item {
+        margin-right: -101px;
+    }
+
+    .service-item {
+        margin-left: 36px;
+        margin-right: -41px;
+    }
+
+    .service-text h3 {
+        font-size: 29px;
+    }
+
+    .menu-name h3 {
+        font-size: 20px;
+    }
+
+    .menu-price p {
+        font-size: 16px;
+    }
+    /* Service Css End Here */
+
+    /* Guest Css Start Here */
+    #guest {
+        padding-top: 70px;
+        padding-bottom: 74px;
+    }
+
+    .guest-review h4 {
+        font-size: 18px;
+        line-height: 23px;
+    }
+    /* Guest Css End Here */
+
+    /* Footer Upper Css Start Here */
+    #footer-upper {
+        padding-top: 49px;
+        padding-bottom: 60px;
+    }
+
+    .footer-upper-image {
+        text-align: center;
+        margin-bottom: 24px;
+    }
+
+    .just-food-second h3 {
+        font-size: 29px;
+        padding-right: 39px;
+    }
+
+    .just-food-footer-img {
+        margin-right: 43px;
+    }
+
+    .just-food-second h4 {
+        padding-right: 35px;
+        font-size: 15px;
+    }
+
+    .just-food-second p {
+        font-size: 15px;
+        padding-right: 35px;
+    }
+
+    .type {
+        text-align: center;
+    }
+
+    .type input {
+        margin-left: -12px;
+    }
+    /* Footer Upper Css End Here */
+
+     /* Footer Css Start Here */
+     #footer {
+        padding-top: 45px;
+        padding-bottom: 41px;
+    }
+
+    .footer-heading p {
+        padding-bottom: 30px;
+    }
+
+    .footer-para {
+        padding-bottom: 24px;
+    }
+    /* Footer Css End Here */
+}
+
+/* Small devices */
+@media (min-width: 576px) and (max-width: 767.98px) {
+     /* Header Css Start Here */
+     .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #ffffff;
+        padding: 5px 10px;
+        border: 1px solid #fff;
+        border-radius: 5px;
+    }
+
+    .navbar-nav {
+        background: rgb(204, 174, 40);
+        text-align: center;
+        padding: 10px 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 20px;
+    }
+    /* Header Css End Here */
+
+    /* Banner Css Start Here */
+    #banner {
+        padding-top: 135px;
+        padding-bottom: 88px;
+    }
+
+    .banner-item h3 {
+        font-size: 31px;
+    }
+
+    .banner-item-image {
+        top: 53%;
+    }
+
+    .banner-item-link a {
+        padding: 15px 40px 15px 40px;
+    }
+    /* Banner Css End Here */
+
+    /* Just Css Start Here */
+    #just-food {
+        padding-top: 17px;
+        padding-bottom: 35px;
+    }
+
+    .just-food-text h3 {
+        font-size: 31px;
+        padding-right: 27px;
+    }
+
+    .just-food-underline {
+        margin-right: 25px;
+    }
+
+    .just-food-text p {
+        font-size: 16px;
+        padding-bottom: 18px;
+        padding-right: 33px;
+    }
+    /* Just Css End Here */
+
+    /* Fine Css Start Here */
+    #fine {
+        padding-top: 74px;
+        padding-bottom: 81px;
+    }
+
+    .fine-text h3 {
+        padding-top: 43px;
+        padding-bottom: 7px;
+    }
+
+    .fine-text p {
+        padding: 30px 25px 38px 25px;
+    }
+
+    .fine-inner-image {
+        padding-bottom: 56px;
+    }
+    /* Fine Css End Here */
+
+    /* Service Css Start Here */
+    #service {
+        padding-top: 52px;
+        padding-bottom: 34px;
+    }
+
+    .service-item {
+        margin-right: 35px;
+    }
+
+    .service-text {
+        margin-right: 10px;
+    }
+
+    .service-item {
+        margin-right: -101px;
+    }
+
+    .service-item {
+        margin-left: 36px;
+        margin-right: -41px;
+    }
+
+    .service-text h3 {
+        font-size: 29px;
+    }
+
+    .menu-name h3 {
+        font-size: 16px;
+    }
+
+    .menu-price p {
+        font-size: 14px;
+    }
+    /* Service Css End Here */
+
+    
+    /* Guest Css Start Here */
+    #guest {
+        padding-top: 70px;
+        padding-bottom: 74px;
+    }
+
+    .guest-review h4 {
+        font-size: 18px;
+        line-height: 23px;
+    }
+    /* Guest Css End Here */
+
+    /* Footer Upper Css Start Here */
+    #footer-upper {
+        padding-top: 49px;
+        padding-bottom: 60px;
+    }
+
+    .footer-upper-image {
+        text-align: center;
+        margin-bottom: 24px;
+    }
+
+    .just-food-second h3 {
+        font-size: 29px;
+        padding-right: 39px;
+    }
+
+    .just-food-footer-img {
+        margin-right: 43px;
+    }
+
+    .just-food-second h4 {
+        padding-right: 35px;
+        font-size: 15px;
+    }
+
+    .just-food-second p {
+        font-size: 15px;
+        padding-right: 35px;
+    }
+
+    .type {
+        text-align: center;
+    }
+
+    .type input {
+        margin-left: -12px;
+    }
+    /* Footer Upper Css End Here */
+
+     /* Footer Css Start Here */
+     #footer {
+        padding-top: 45px;
+        padding-bottom: 41px;
+    }
+
+    .footer-heading p {
+        padding-bottom: 30px;
+    }
+
+    .footer-para {
+        padding-bottom: 24px;
+    }
+    /* Footer Css End Here */
+
+}
+
+/* Extra small */
+@media (max-width: 575.98px) {
+    /* Header Css Start Here */
+    .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #ffffff;
+        padding: 5px 10px;
+        border: 1px solid #fff;
+        border-radius: 5px;
+    }
+
+    .navbar-nav {
+        background: rgb(204, 174, 40);
+        text-align: center;
+        padding: 10px 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 20px;
+    }
+    /* Header Css End Here */
+
+    /* Banner Css Start Here */
+    #banner {
+        padding-top: 135px;
+        padding-bottom: 88px;
+    }
+
+    .banner-item h3 {
+        font-size: 27px;
+        padding-bottom: 0px;
+    }
+
+    .banner-item-image {
+        top: 50%;
+    }
+
+    .banner-item-link {
+        margin-top: 100px;
+    }
+
+    .banner-item-link a {
+        padding: 15px 40px 15px 40px;
+    }
+    /* Banner Css End Here */
+
+    /* Just Css Start Here */
+    #just-food {
+        padding-top: 17px;
+        padding-bottom: 35px;
+    }
+
+    .just-food-text h3 {
+        font-size: 23px;
+        padding-right: 27px;
+    }
+
+    .just-food-underline {
+        margin-right: 25px;
+    }
+
+    .just-food-text p {
+        font-size: 14px;
+        padding-bottom: 18px;
+        padding-right: 18px;
+    }
+    /* Just Css End Here */
+
+    /* Fine Css Start Here */
+    #fine {
+        padding-top: 74px;
+        padding-bottom: 81px;
+    }
+
+    .fine-text h3 {
+        padding-top: 43px;
+        padding-bottom: 7px;
+    }
+
+    .fine-text p {
+        padding: 30px 25px 38px 25px;
+    }
+
+    .fine-inner-image {
+        padding-bottom: 56px;
+    }
+    /* Fine Css End Here */
+
+    /* Service Css Start Here */
+    #service {
+        padding-top: 52px;
+        padding-bottom: 34px;
+    }
+
+    .service-item {
+        margin-right: 35px;
+    }
+
+    .service-text {
+        margin-right: 10px;
+    }
+    /* Service Css End Here */
+
+    /* Guest Css Start Here */
+    #guest {
+        padding-top: 70px;
+        padding-bottom: 74px;
+    }
+
+    .guest-review h4 {
+        font-size: 18px;
+        line-height: 23px;
+    }
+    /* Guest Css End Here */
+
+    /* Footer Upper Css Start Here */
+    #footer-upper {
+        padding-top: 49px;
+        padding-bottom: 60px;
+    }
+
+    .footer-upper-image {
+        text-align: center;
+        margin-bottom: 24px;
+    }
+
+    .just-food-second h3 {
+        font-size: 29px;
+        padding-right: 39px;
+    }
+
+    .just-food-footer-img {
+        margin-right: 43px;
+    }
+
+    .just-food-second h4 {
+        padding-right: 35px;
+        font-size: 15px;
+    }
+
+    .just-food-second p {
+        font-size: 15px;
+        padding-right: 35px;
+    }
+
+    .type {
+        text-align: center;
+    }
+
+    .type input {
+        margin-left: -12px;
+    }
+    /* Footer Upper Css End Here */
+
+    /* Footer Css Start Here */
+    #footer {
+        padding-top: 45px;
+        padding-bottom: 41px;
+    }
+
+    .footer-heading p {
+        padding-bottom: 30px;
+    }
+
+    .footer-para {
+        padding-bottom: 24px;
+    }
+    /* Footer Css End Here */
+}
